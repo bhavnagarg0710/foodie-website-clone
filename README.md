@@ -1,2 +1,2 @@
-# foodie-website-clone
+# foodie-website
 # Bhavna garg
